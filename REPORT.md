@@ -22,7 +22,7 @@
 
 **- Ядра процессора:** 8 ядер на сервер
 
-**- Память:** 32GB RAM на сервере
+**- Память:** 32GB RAM на сервер
 
 **- Операционная система:** Ubuntu 20.04 LTS
 
@@ -41,8 +41,16 @@
 
 ## Графики
 - Метрики хоста:
+![CPU](https://github.com/user-attachments/assets/85e6d046-7827-44bd-990c-f832eeb68339)
+
+![Memory](https://github.com/user-attachments/assets/9a9c032d-c544-41a6-8dc9-4850b56cebd2)
 
 ## Результаты нагрузки
+![cinema1](https://github.com/user-attachments/assets/ecb5a3ad-55a6-49e4-9cbd-c827aba874a2)
+
+![cinema2](https://github.com/user-attachments/assets/e89e33be-7893-4620-bfd0-7910b8f033da)
+
+![cinema3](https://github.com/user-attachments/assets/fae9aeb5-dbcb-483f-9bfc-0669256cd250)
 
 # Результаты
 
